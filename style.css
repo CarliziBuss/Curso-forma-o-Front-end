@@ -62,3 +62,8 @@ html {
     font-weight: bold;
     text-align: center;
 }
+.direitos {
+    text-align: center;
+    font-style: italic;
+background-color: dimgrey;
+}
